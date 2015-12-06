@@ -1,0 +1,68 @@
+2048
+Convergence achieved on the CPU after 70 iterations.
+CPU runtime: 4.26371 s.
+Iterations: 80, GPU Global Memory runtime: 0.18189s.
+Iterations: 80, GPU Textured Memory runtime: 0.11162s.
+CPU:
+AVG: 50.014147
+MIN: 0.017398
+MAX: 99.999527
+
+GPU:
+AVG: 50.014329
+MIN: 0.017398
+MAX: 99.999527
+
+GPU textured:
+AVG: 50.012412
+MIN: 0.017398
+MAX: 99.999527
+
+Average difference in grid elements for Gauss Seidel and Jacobi methods = 0.241676.
+Textured version: Average difference in grid elements for Gauss Seidel and Jacobi methods = 0.246515.
+
+4096
+Convergence achieved on the CPU after 69 iterations.
+CPU runtime: 16.59213 s.
+Iterations: 80, GPU Global Memory runtime: 0.71387s.
+Iterations: 80, GPU Textured Memory runtime: 0.43033s.
+CPU:
+AVG: 49.993231
+MIN: 0.002088
+MAX: 99.989929
+
+GPU:
+AVG: 49.994339
+MIN: 0.002088
+MAX: 99.989929
+
+GPU textured:
+AVG: 49.993164
+MIN: 0.002088
+MAX: 99.989929
+
+Average difference in grid elements for Gauss Seidel and Jacobi methods = 0.225902.
+Textured version: Average difference in grid elements for Gauss Seidel and Jacobi methods = 0.230395.
+
+8192
+Convergence achieved on the CPU after 55 iterations.
+CPU runtime: 54.73799 s.
+Iterations: 80, GPU Global Memory runtime: 2.86225s.
+Iterations: 80, GPU Textured Memory runtime: 1.75504s.
+CPU:
+AVG: 49.997897
+MIN: 0.002597
+MAX: 99.992073
+
+GPU:
+AVG: 49.998009
+MIN: 0.002597
+MAX: 99.992073
+
+GPU textured:
+AVG: 49.997826
+MIN: 0.002597
+MAX: 99.992073
+
+Average difference in grid elements for Gauss Seidel and Jacobi methods = 0.086069.
+Textured version: Average difference in grid elements for Gauss Seidel and Jacobi methods = 0.079158.
